@@ -27,11 +27,11 @@
     "url": "https://getvoiz.com"
   }, {
     "name": "Support",
-    "url": "https://autocalls.ai/contact"
+    "url": "https://voiz.mx/support-portal/"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.autocalls.ai"
+    "url": "https://app.voiz.mx"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -332,10 +332,10 @@
     }
   ],
   "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/autocalls-ai"
+    "linkedin": "https://www.linkedin.com/company/voiz"
   },
   "api": {
-    "baseUrl": "https://app.autocalls.ai/api/",
+    "baseUrl": "https://app.voiz.mx/api/",
     "auth": {
       "method": "bearer"
     }
