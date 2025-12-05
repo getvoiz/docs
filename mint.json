@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Voiz AI",
   "logo": {
-    "dark": "/resources/logo/dark.png",
-    "light": "/resources/logo/light.png"
+    "dark": "/resources/logo/voiz-ai-logot.webp",
+    "light": "/resources/logo/voiz-logo-ai-white.webp"
   },
-  "favicon": "/favicon.png",
+  "favicon": "/voiz-ai-favicon.png",
   "colors": {
     "primary": "#06df4b",
     "light": "#06df4b",
